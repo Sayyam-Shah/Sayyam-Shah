@@ -9,10 +9,6 @@
        alt="snake" /></a>
 </div>
 
-<div> 
-  <hr> 
-<img alt="Coder"  width = 35% padding = "5px" margin-left = "10px" src="https://github.com/allan7yin/allan7yin/assets/66652405/c612b737-f593-4574-8b6e-5c191c5e7c09" align="right"/>
-</div> 
 
 I'm in third year of Health Sciences at the University of Waterloo and I'm an aspiring clinician-scientist hoping to combine computational (single cell, machine learning) and wet lab approaches to further dive deeper into hematopoietic stem cell biology, gene therapy and transplant. In Dr. John Dick's lab, I am currently developing a framework to further understand what drives human HSC heterogeneity and how does this variation contribute to disease using unsupervised machine learning approaches. 
 
