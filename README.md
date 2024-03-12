@@ -1,14 +1,3 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there 👋, I'm 「Sayyam」 </h1></summary>
-  </ul>
-</div>
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 Hi, my name is Sayyam and I'm in my third year of Health Sciences at the University of Waterloo! 
 
 My research focuses on using omics data to understand human blood stem cell variation and how it is relevant to therapy and disease risk. As an aspiring clinician scientist, I hope to combine clinical medicine, research, and advocacy to foster positive youth development and promote equitable access to services (Education, Healthcare). 
