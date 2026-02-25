@@ -1,6 +1,6 @@
-Hi, my name is Sayyam and I'm in my third year of Health Sciences at the University of Waterloo! 
+Hi, my name is Sayyam, and I'm a first-year medical student at the University of Toronto! 
 
-My research focuses on using omics data to understand human blood stem cell variation and how it is relevant to therapy and disease risk. As an aspiring clinician scientist, I hope to combine clinical medicine, research, and advocacy to foster positive youth development and promote equitable access to services (Education, Healthcare). 
+My research focuses on using omics data to understand human blood stem cell variation and its relevance to therapy and disease outcome. 
 
 Feel free to reach out to me to learn more about my work at sayyam.n.shah@gmail.com.
 
