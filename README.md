@@ -1,4 +1,4 @@
-Hi, my name is Sayyam, and I'm a first-year medical student at the University of Toronto! 
+Hi, my name is Sayyam, and I'm a second-year medical student at the University of Toronto! 
 
 My research focuses on using omics data to understand human blood stem cell variation and its relevance to therapy and disease outcome. 
 
